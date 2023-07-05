@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gusthevo, i'm from Ceará, Brazil. Studying Computer Science at Universidade Federal do Ceará (UFC)
-- 👀 I’m interested in programming web, front-end projects.
-- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT, C, JAVA.
+- 👀 I’m interested in programming web, front-end and back-end projects.
+- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT, C, JAVA, Angular.
 - 📫 How to reach me: gustavocraft321@gmail.com.
 
 <!---
