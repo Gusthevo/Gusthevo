@@ -62,15 +62,15 @@ I'm a technology entusiast and i love to learn about new methods to do the thing
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rfahham&show_icons=true&theme=radical" height="290" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfahham&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rfahham&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gusthevo&show_icons=true&theme=radical" height="290" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gusthevo&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gusthevo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
 </div>
 
 <!-- Contador de Visitantes -->
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rfahham}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gusthevo}/count.svg" /></p> 
   <br>
 </div>
 
