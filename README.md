@@ -67,9 +67,9 @@ I'm a technology entusiast and i love to learn about new methods to do the thing
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gusthevo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
 </div>
 
-<!-- Contador de Visitantes -->
+<!-- Visitors Counter -->
 <div align="center">
-  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <br><p align="center"><b>Visitors Counter</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gusthevo}/count.svg" /></p> 
   <br>
 </div>
